@@ -1,2 +1,2 @@
 # travel-project
-A booking website for travelers.
+A booking website for travellers.
